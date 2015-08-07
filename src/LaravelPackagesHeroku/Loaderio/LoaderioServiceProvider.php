@@ -1,4 +1,4 @@
-<?php namespace LaravelPackages\Loaderio;
+<?php namespace LaravelPackagesHeroku\Loaderio;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -18,7 +18,7 @@ class LoaderioServiceProvider extends ServiceProvider {
 	 */
 	public function boot()
 	{
-		$this->package('laravel-packages/loaderio');
+		$this->package('laravel-packages-heroku/loaderio');
 
         include __DIR__.'/../../routes.php';
 	}

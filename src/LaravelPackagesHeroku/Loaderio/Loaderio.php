@@ -1,4 +1,4 @@
-<?php namespace LaravelPackages\Loaderio;
+<?php namespace LaravelPackagesHeroku\Loaderio;
 
 use Config;
 use Exception;

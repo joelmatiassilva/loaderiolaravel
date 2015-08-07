@@ -1,6 +1,6 @@
 <?php
 
-use LaravelPackages\Loaderio\Loaderio;
+use LaravelPackagesHeroku\Loaderio\Loaderio;
 
 $apps = Loaderio::getApps();
 

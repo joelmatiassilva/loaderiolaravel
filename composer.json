@@ -1,5 +1,5 @@
 {
-    "name": "laravel-packages/loaderiolaravel",
+    "name": "laravel-packages-heroku/loaderiolaravel",
     "description": "",
     "authors": [
         {
@@ -17,7 +17,7 @@
 
         ],
         "psr-4": {
-            "LaravelPackages\\Loaderio": "src/"
+            "LaravelPackagesHeroku\\Loaderio": "src/"
         }
     },
     "minimum-stability": "dev"
