@@ -13,11 +13,8 @@
         "rmccue/requests": ">=1.0"
     },
     "autoload": {
-        "classmap": [
-
-        ],
         "psr-4": {
-            "LaravelPackagesHeroku\\Loaderio": "src"
+            "LaravelPackagesHeroku\\Loaderio\\": "src"
         }
     }
 }
