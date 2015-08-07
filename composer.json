@@ -16,8 +16,8 @@
         "classmap": [
 
         ],
-        "psr-0": {
-            "LaravelPackagesHeroku\\Loaderio": "src/"
+        "psr-4": {
+            "LaravelPackagesHeroku\\Loaderio": "src"
         }
     },
     "minimum-stability": "dev"
